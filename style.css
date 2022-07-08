@@ -1,0 +1,35 @@
+body{
+    background-color:aquamarine;
+    text-align: center;
+}
+
+.line{
+    width: 80px;
+    height:8px;
+    margin:8px auto;
+    background-color: black;
+}
+
+#myCarousel{
+    background: linear-gradient(red 0%,orange 100%);
+}
+
+#apps{
+    background: linear-gradient(green 0%,blue 100%);
+}
+
+#chatbot{
+    background: linear-gradient(white 0%,black 100%);
+}
+
+.carousel-inner p{
+    font-size: 22px;
+    margin-top:15px;
+    color:black;
+    font-weight: 300;
+}
+
+#myCarousel img{
+    height:300px;
+    margin-top:35px;
+}
